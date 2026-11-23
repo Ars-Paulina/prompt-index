@@ -1,0 +1,15 @@
+{
+  "name": "prompt-index",
+  "version": "0.1.0",
+  "description": "A pane listing your prompts; Enter scrolls the chat to that prompt",
+  "author": { "name": "Pedro Malla" },
+  "userConfig": {
+    "enabled": {
+      "type": "boolean",
+      "title": "Prompt index",
+      "description": "Kill switch. Off registers nothing and runs nothing.",
+      "default": true
+    }
+  },
+  "types": "./types/index.d.ts"
+}

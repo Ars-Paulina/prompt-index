@@ -1,0 +1,5 @@
+{
+  "name": "prompt-index",
+  "owner": { "name": "Pedro Malla" },
+  "plugins": [{ "name": "prompt-index", "source": "./" }]
+}
