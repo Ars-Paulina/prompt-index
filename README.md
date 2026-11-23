@@ -11,16 +11,16 @@ Needs the fullscreen layout (`CLAUDE_CODE_NO_FLICKER=1`), since the jump scrolls
 At the prompt in a terminal session:
 
 ```
-/plugin install prompt-index --marketplace pedromalla95-pixel/prompt-index
+/plugin install prompt-index --marketplace Ars-Paulina/prompt-index
 ```
 
 From a shell:
 
 ```
-claude plugin install prompt-index --marketplace pedromalla95-pixel/prompt-index
+claude plugin install prompt-index --marketplace Ars-Paulina/prompt-index
 ```
 
-In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace `pedromalla95-pixel/prompt-index`, then Add plugin.
+In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace `Ars-Paulina/prompt-index`, then Add plugin.
 
 Answer `y` to "Add marketplace?", then pick user scope with Enter.
 
