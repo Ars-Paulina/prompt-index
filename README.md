@@ -27,3 +27,7 @@ Answer `y` to "Add marketplace?", then pick user scope with Enter.
 ## Turn it off
 
 The mod has one option, `enabled`. Set it to false in the plugin's settings to stop it without uninstalling.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
